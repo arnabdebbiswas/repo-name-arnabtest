@@ -3,3 +3,5 @@ second file
 Once upon a time in Toronto, we had a CN Tower.
 
 What is the temperature today?
+
+It's -20c here!
